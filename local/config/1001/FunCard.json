@@ -1,0 +1,160 @@
+{
+    "10001": {
+        "Name": "回收",
+        "Name2": "",
+        "Icon": "",
+        "ID": 10001,
+        "Cost": 0,
+        "Component": "sell",
+        "IncludeHolder": [],
+        "IncludeProbability": []
+    },
+    "10002": {
+        "Name": "3",
+        "Name2": "基础资源",
+        "Icon": "",
+        "ID": 10002,
+        "Cost": 3,
+        "Component": "seat1",
+        "IncludeHolder": [
+            10002
+        ],
+        "IncludeProbability": [
+            100
+        ]
+    },
+    "10003": {
+        "Name": "4",
+        "Name2": "植物动物",
+        "Icon": "",
+        "ID": 10003,
+        "Cost": 4,
+        "Component": "seat2",
+        "IncludeHolder": [
+            10003,
+            10004,
+            10005
+        ],
+        "IncludeProbability": [
+            30,
+            30,
+            30
+        ]
+    },
+    "10004": {
+        "Name": "5",
+        "Name2": "山珍海味",
+        "Icon": "",
+        "ID": 10004,
+        "Cost": 5,
+        "Component": "seat3",
+        "IncludeHolder": [
+            10006,
+            10007,
+            10008
+        ],
+        "IncludeProbability": [
+            30,
+            30,
+            30
+        ]
+    },
+    "10005": {
+        "Name": "10",
+        "Name2": "进阶资源",
+        "Icon": "",
+        "ID": 10005,
+        "Cost": 10,
+        "Component": "seat4",
+        "IncludeHolder": [
+            10009
+        ],
+        "IncludeProbability": [
+            100
+        ]
+    },
+    "10006": {
+        "Name": "10",
+        "Name2": "动物资源",
+        "Icon": "",
+        "ID": 10006,
+        "Cost": 10,
+        "Component": "seat5",
+        "IncludeHolder": [
+            10004
+        ],
+        "IncludeProbability": [
+            100
+        ]
+    },
+    "10007": {
+        "Name": "10",
+        "Name2": "植物资源",
+        "Icon": "",
+        "ID": 10007,
+        "Cost": 10,
+        "Component": "seat6",
+        "IncludeHolder": [
+            10003
+        ],
+        "IncludeProbability": [
+            100
+        ]
+    },
+    "10008": {
+        "Name": "10",
+        "Name2": "荤素资源",
+        "Icon": "",
+        "ID": 10008,
+        "Cost": 10,
+        "Component": "seat5",
+        "IncludeHolder": [
+            10006
+        ],
+        "IncludeProbability": [
+            100
+        ]
+    },
+    "10009": {
+        "Name": "10",
+        "Name2": "水果资源",
+        "Icon": "",
+        "ID": 10009,
+        "Cost": 10,
+        "Component": "seat6",
+        "IncludeHolder": [
+            10007
+        ],
+        "IncludeProbability": [
+            100
+        ]
+    },
+    "10010": {
+        "Name": "15",
+        "Name2": "探索资源",
+        "Icon": "",
+        "ID": 10010,
+        "Cost": 15,
+        "Component": "seat7",
+        "IncludeHolder": [
+            10010
+        ],
+        "IncludeProbability": [
+            100
+        ]
+    },
+    "10011": {
+        "Name": "15",
+        "Name2": "高级资源",
+        "Icon": "",
+        "ID": 10011,
+        "Cost": 15,
+        "Component": "seat7",
+        "IncludeHolder": [
+            10011
+        ],
+        "IncludeProbability": [
+            100
+        ]
+    }
+}
