@@ -1,13 +1,1 @@
-{
-	"10001":{
-		"Continued":5,
-		"ID":10001,
-		"Info":"附带毒素",
-		"MaxFloor":3,
-		"Name":"中毒(时间)",
-		"Polarity":2,
-		"Type":1,
-		"Value":5,
-		"ValueBase":1 
-    }
-}
+{"10001":{"Continued":5,"ID":10001,"Info":"附带毒素","MaxFloor":3,"Name":"中毒(时间)","Polarity":2,"Type":1,"Value":5,"ValueBase":1}}
